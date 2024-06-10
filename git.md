@@ -1,4 +1,5 @@
 # Git and GitHub User Guide
+
 Git is a distributed version control system that allows you to track changes in your files and coordinate work on those files among multiple people. GitHub is a hosting service for Git repositories that provides a web-based graphical interface. 
 
 ## Table of Contents
