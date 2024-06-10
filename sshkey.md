@@ -1,6 +1,8 @@
 
 # Adding an SSH Key to Your GitHub Account
 
+** added from cli**
+
 This guide walks you through the steps of generating an SSH key and adding it to your GitHub account. SSH keys provide a secure way of connecting to GitHub without needing to enter your username and password every time.
 
 ## Prerequisites
